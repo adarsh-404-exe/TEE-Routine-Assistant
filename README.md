@@ -41,8 +41,9 @@ Follow these steps to set up the project on your local machine.
 
 1. **Clone the repository:**
   ```bash
-  git clone https://github.com/ananya868/Custom-TEE-Routine-Generator-and-Mental-Coach-Project.git
-  cd Custom-TEE-Routine-Generator-and-Mental-Coach-Project
+  git clone https://github.com/adarsh-404-exe/TEE-Routine-Assistant.git
+
+  cd TEE-Routine-Assistant
   ```
 2. **Create and activate a virtual environment:**
   
@@ -72,7 +73,7 @@ We welcome contributions! Feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
 
-Have questions or feedback? Reach out to us at [your-ananya8154@gmail.com](mailto:ananya8154@gmail.com).
+Have questions or feedback? Reach out to us at [adarshagrawal049@gmail.com](mailto:adarshagrawal049@gmail.com).
 
 ---
 
